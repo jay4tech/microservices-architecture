@@ -8,5 +8,4 @@ class LibraryManagementApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
